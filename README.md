@@ -1,2 +1,2 @@
 # Newrepoggg
-readme tepo update
+edited readme
